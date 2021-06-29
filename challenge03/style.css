@@ -25,5 +25,19 @@ body {
 
 .intro-content p {
   font-size: 21px;
+  font-weight: 300;
   color: white;
+  line-height: 46px;
+}
+
+.intro-content button {
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 21px;
+  border-radius: 35px;
+  border: none;
+  padding: 1em 2em;
+  background-color: #38cfd9;
+  color: #23424a;
+  margin-top: 50px;
 }
