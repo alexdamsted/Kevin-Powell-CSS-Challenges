@@ -16,6 +16,7 @@ body {
   font-family: "Roboto", sans-serif;
   width: 50%;
   max-width: 750px;
+  margin: 0 auto;
 }
 
 .intro-content h1 {
