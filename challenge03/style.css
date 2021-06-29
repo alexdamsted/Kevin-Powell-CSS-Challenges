@@ -7,14 +7,21 @@ body {
   font-family: sans-serif;
 }
 
+.container {
+  background-color: #23424a;
+  padding: 5em;
+}
+
 .intro-content {
   font-family: "Roboto", sans-serif;
 }
 
 .intro-content h1 {
   font-size: 48px;
+  color: white;
 }
 
 .intro-content p {
   font-size: 21px;
+  color: white;
 }
