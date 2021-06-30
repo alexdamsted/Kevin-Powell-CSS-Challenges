@@ -51,6 +51,10 @@ h1 {
   color: white;
 }
 
+.mid-section h2 {
+  color: #87629a;
+}
+
 .row {
   /* display: flex => flex container */
   display: flex;
