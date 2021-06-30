@@ -55,7 +55,7 @@ h1 {
   /* display: flex => flex container */
   display: flex;
   /* can't use yet */
-
+  padding: 2em;
   gap: 100px;
 }
 
