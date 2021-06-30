@@ -45,6 +45,8 @@ h1 {
   width: 80%;
   max-width: 1100px;
   margin: 0 auto;
+  background-color: #136c72;
+  color: white;
 }
 
 .row {
