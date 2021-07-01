@@ -75,6 +75,30 @@ h1 {
   margin-bottom: 3em;
 }
 
+.main {
+  padding: 2em 0 2em 0;
+}
+
+.primary-content {
+  width: 62%;
+}
+
+.section-title {
+  color: #136c72;
+}
+
+.sidebar {
+  width: 32%;
+  text-align: center;
+  background-color: #136c72;
+  padding: 1em 2em 0 2em;
+  color: white;
+}
+
+.sidebar p {
+  margin-bottom: 3em;
+}
+
 .btn {
   display: inline-block;
   text-decoration: none;
