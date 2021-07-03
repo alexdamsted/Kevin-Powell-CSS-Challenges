@@ -30,3 +30,13 @@ header {
   margin: 0 auto;
   text-align: center;
 }
+
+.section-header-top-heading {
+  color: #824936;
+  font-size: 3.75rem;
+}
+
+.section-header-top-text {
+  font-size: 1.125rem;
+  text-transform: uppercase;
+}
