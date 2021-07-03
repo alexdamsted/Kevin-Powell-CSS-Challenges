@@ -20,15 +20,15 @@ header {
 
 .row {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
 }
 
 .header-top {
   min-height: 660px;
   margin: 0 auto;
   text-align: center;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .section-header-top-heading {
