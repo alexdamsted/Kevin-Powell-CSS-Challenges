@@ -40,3 +40,28 @@ header {
   font-size: 1.125rem;
   text-transform: uppercase;
 }
+
+.main-top {
+  margin: 0 auto;
+  padding: 2em 0 2em 0;
+}
+
+.main-top-text-container {
+  margin: 0 auto;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.section-main-top-heading {
+  color: #824936;
+  font-size: 2.25rem;
+  text-align: center;
+}
+
+.section-main-top-text--left {
+  font-size: 1.125rem;
+}
+
+.section-main-top-text--right {
+  font-size: 1.125rem;
+}
