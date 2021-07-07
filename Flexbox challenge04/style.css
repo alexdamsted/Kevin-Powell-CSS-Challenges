@@ -44,6 +44,7 @@ section {
 
 .section-one {
   background-color: #f3eed9;
+  padding: 5em 0 5em 0;
 }
 
 .section-one__text {
@@ -94,5 +95,13 @@ section {
 
   .col + .col {
     margin-left: 4em;
+  }
+
+  .section-one {
+    padding: 8em 0 8em 0;
+  }
+
+  .section-one__heading {
+    font-size: 3.75rem;
   }
 }
