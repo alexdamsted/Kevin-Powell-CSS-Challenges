@@ -25,4 +25,33 @@ h1,
 h2 {
   font-family: "Playfair Display", serif;
   margin-top: 0;
+  font-weight: 900;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+section {
+  padding: 4em 0;
+}
+
+.section-one {
+  background-color: #f3eed9;
+}
+
+.section-one__text {
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 10px;
+  font-size: 1.125rem;
+  color: #222c2a;
+}
+
+.section-one__heading {
+  text-align: center;
+  font-size: 2rem;
+  line-height: 1.1;
+  color: #824936;
 }
