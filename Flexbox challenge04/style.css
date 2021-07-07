@@ -59,6 +59,7 @@ section {
 }
 
 .section-one__heading {
+  text-align: center;
   font-size: 2rem;
   line-height: 1.1;
   color: #824936;
@@ -84,4 +85,10 @@ section {
 .section-four {
   background-color: #824936;
   color: #f3eed9;
+}
+
+@media (min-width: 800px) {
+  .row {
+    display: flex;
+  }
 }
