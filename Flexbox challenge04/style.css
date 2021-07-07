@@ -33,6 +33,14 @@ h2 {
   margin: 0 auto;
 }
 
+.row {
+  display: flex;
+}
+
+.col {
+  width: 100%;
+}
+
 section {
   padding: 4em 0;
 }
