@@ -34,7 +34,7 @@ h2 {
 }
 
 .row {
-  display: flex;
+  display: block;
 }
 
 .col {
@@ -62,4 +62,28 @@ section {
   font-size: 2rem;
   line-height: 1.1;
   color: #824936;
+}
+
+.section-two__heading {
+  font-size: 2.25rem;
+  color: #824936;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.section-three {
+  background-color: #222c2a;
+  color: #f3eed9;
+}
+
+.section-three__heading {
+  font-size: 2.25rem;
+  color: #f3eed9;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.section-four {
+  background-color: #824936;
+  color: #f3eed9;
 }
