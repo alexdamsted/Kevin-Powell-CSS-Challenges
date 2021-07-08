@@ -76,9 +76,8 @@ header {
   padding: 0em;
   border-radius: 50%;
   background: #072a2d;
-  color: white;
   transition: opacity 250ms ease;
-
+  color: white;
   position: absolute;
   left: 0;
 }
@@ -127,8 +126,25 @@ header {
 }
 
 .nav__list {
+  font-size: 1rem;
+  text-transform: uppercase;
   list-style: none;
-  color: white;
+}
+
+.nav__list--primary {
+  line-height: 3em;
+}
+
+.nav__list--secondary {
+  line-height: 3em;
+}
+
+.nav__link--button {
+  background-color: white;
+  padding: 0.2em 0.6em;
+  border-radius: 30px;
+  text-decoration: none;
+  color: #136c72;
 }
 
 .nav__link {
